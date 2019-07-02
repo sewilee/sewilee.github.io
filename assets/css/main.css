@@ -3069,6 +3069,11 @@ input, select, textarea {
 			z-index: 1;
 		}
 
+			#header .fa-gamepad{
+				font-size: 35px;
+				color: #b08b1e;
+			}
+
 			#header .inner .actions {
 				-moz-transition: -moz-transform 1.25s ease;
 				-webkit-transition: -webkit-transform 1.25s ease;
@@ -3137,9 +3142,13 @@ input, select, textarea {
 		#footer a {
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
+			#footer a.icon-fa {
+				font-size: 20px;
+			}
 
 			#footer a:hover {
-				color: #ffffff;
+				color: #b08b1e;
+				/* color: #ffffff; */
 			}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
