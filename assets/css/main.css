@@ -3129,7 +3129,7 @@ input, select, textarea {
 
 	#five span,
 	#five a {
-		padding: 0 12px;
+		padding: 0 8px;
 		border: none;
 	}
 
@@ -3477,6 +3477,10 @@ input, select, textarea {
 					margin: 2em 0 0 0;
 				}
 
+			#header .fa-gamepad{
+				font-size: 25px;
+			}
+
 		/* SVG */
 		
 		#name {
@@ -3520,6 +3524,10 @@ input, select, textarea {
 				#header br {
 					display: none;
 				}
+
+			#header .fa-gamepad{
+				font-size: 20px;
+			}
 
 		/* SVG */
 		
