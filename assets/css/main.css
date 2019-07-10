@@ -3125,6 +3125,18 @@ input, select, textarea {
 		opacity: 1;
 	}
 
+
+	#five span,
+	#five a {
+		padding: 0 12px;
+		border: none;
+	}
+
+	#five a:hover{
+		color: #b08b1e;
+		font-weight: 600;
+	}
+
 /* Footer */
 
 	#footer {
@@ -3247,6 +3259,19 @@ input, select, textarea {
 					margin-left: 0;
 					padding: 0;
 				}
+
+/* SVG */
+
+	#Layer_1{
+		overflow: visible;
+	}
+
+	#s1, #e1, #w1, #i1, #n1, #a1,
+	#l1, #e2, #e3 {
+		stroke: red;
+		stroke-width: 1px;
+		fill: transparent;
+	}
 
 /* XLarge */
 
