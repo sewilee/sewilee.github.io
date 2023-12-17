@@ -1,1 +1,0 @@
-export type PageType = "HOME" | "WORK" | "PROJECT" | "ME"
