@@ -1,0 +1,29 @@
+@property --sage {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: #c1cfa0;
+}
+
+@property --desert-sand {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: #f0caa8;
+}
+
+@property --air-force-blue {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: #568ea3;
+}
+
+@property --black {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: #393e41;
+}
+
+@property --white {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: #f4f3f6;
+}
